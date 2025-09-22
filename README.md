@@ -37,11 +37,11 @@ Here are some of the projects I want to tackle:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmuranko&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuranko&layout=compact&theme=default)
 
 ---
 
 ## 📫 Connect
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your email address]  
+- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/mmuranko/)]  
+- Email: [marvin.muranko@unil.ch]  
