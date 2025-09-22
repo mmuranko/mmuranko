@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 I am an MSc in Finance student at **HEC Lausanne**, specialising in asset & risk management. Before that, I studied chemistry at **ETH Zurich** (MSc) and **Heidelberg University** (BSc). I decided to change career paths to seek new, more quantitative challenges and follow my other passion outside of organic chemistry, which is (quantitative) finance.
 
@@ -6,7 +6,7 @@ This GitHub serves as my portfolio of projects, both private and MScF-related.
 
 ---
 
-## 🔎 Current Focus
+## Current Focus
 - Financial data analysis and visualisation  
 - Portfolio optimisation and risk management  
 - Applications of machine learning in finance  
@@ -14,13 +14,13 @@ This GitHub serves as my portfolio of projects, both private and MScF-related.
 
 ---
 
-## 📂 Projects
+## Projects
 Here are some of the projects I want to tackle:
 
-- 📈 **Stock Price Analysis** – Exploring historical stock data with Python, calculating returns, volatility, and correlations.  
-- 💼 **Portfolio Optimisation** – Implementing the Markowitz mean-variance model for optimal asset allocation.  
-- 🎲 **Monte Carlo Simulation** – Simulating stock price paths and option pricing using stochastic processes.  
-- 🤖 **Machine Learning in Finance** – Predicting financial outcomes using regression and classification models.  
+- **Stock Price Analysis** – Exploring historical stock data with Python, calculating returns, volatility, and correlations.  
+- **Portfolio Optimisation** – Implementing the Markowitz mean-variance model for optimal asset allocation.  
+- **Monte Carlo Simulation** – Simulating stock price paths and option pricing using stochastic processes.  
+- **Machine Learning in Finance** – Predicting financial outcomes using regression and classification models.  
 
 ---
 
