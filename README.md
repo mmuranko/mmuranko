@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I am a Master of Science in Finance student at **HEC Lausanne**, starting in 2025.  
-My academic and professional interests lie at the intersection of **finance, data science, and programming**.  
+I am an MSc in Finance student at **HEC Lausanne**, specialising in asset & risk management. Before that, I studied chemistry at **ETH Zurich** (MSc) and **Heidelberg University** (BSc). I decided to change career paths to seek new, more quantitative challenges and follow my other passion outside of organic chemistry, which is (quantitative) finance.
 
-This GitHub serves as my portfolio of projects, showcasing applications of **Python, data analysis, and quantitative finance**.
+This GitHub serves as my portfolio of projects, both private and MScF-related.
 
 ---
 
@@ -36,12 +35,6 @@ Here are some of the projects I want to tackle:
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmuranko&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuranko&layout=compact&theme=default)
-
----
-
 ## 📫 Connect
-- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/mmuranko/)]  
+- LinkedIn: [[mmuranko](https://www.linkedin.com/in/mmuranko/)]  
 - Email: [marvin.muranko@unil.ch]  
