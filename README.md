@@ -24,7 +24,7 @@ Here are some of the projects I want to tackle:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
@@ -35,6 +35,6 @@ Here are some of the projects I want to tackle:
 
 ---
 
-## 📫 Connect
+## Connect
 - LinkedIn: [[mmuranko](https://www.linkedin.com/in/mmuranko/)]  
 - Email: [marvin.muranko@unil.ch]  
